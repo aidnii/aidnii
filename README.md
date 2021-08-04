@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valore2020
+- 👋 Hi, I’m @aidnii
 - 👀 I’m interested in cryptocurrency, blockchain, smart contracts, and nfts!
 - 🌱 I’m currently learning how to code on solidity and the blockchain
 - 💞️ I’m looking to collaborate on any blockchain or crypto startups
