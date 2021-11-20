@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aidnii
-- 👀 I’m interested in cryptocurrency, blockchain, smart contracts, and nfts!
-- 🌱 I’m currently learning how to code on solidity and the blockchain
+- 👋 Hi, I’m Indy
+- 👀 I’m interested in crypto, blockchain, smart contracts, defi, and nfts..(pretty much anything crypto related)!
+- 🌱 I’m currently learning how to program using Javascript, Solidity, and Rust
 - 💞️ I’m looking to collaborate on any blockchain or crypto startups
 - 📫 How to reach me is at syberchief@gmail.com
 
