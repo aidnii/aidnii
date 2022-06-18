@@ -1,4 +1,5 @@
- # 👋 Hi, I’m Indy, a Blockchain Developer, Systems Engineer, and Mechanical Engineer
+ # 👋 Hi, I’m Indy
+       Blockchain Developer | Systems Engineer | Mechanical Engineer
 
 ### 📫 How to reach me?
       💞️ Email: cryptichic@gmail.com
