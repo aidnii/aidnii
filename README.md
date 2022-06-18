@@ -1,4 +1,4 @@
- # 👋 Hi, I’m Indy
+ # 👋 Hey there! I’m Indy (She/her)
        Blockchain Developer | Systems Engineer | Mechanical Engineer
 
 ### 📫 How to reach me?
