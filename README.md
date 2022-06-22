@@ -10,9 +10,9 @@
       ✨ Blockchain Developer: Experience using Solidity, Hardhat, Truffle, ethers.js, web3.js, OpenZeppelin Libraries
      
 ### My Stats
-![](https://raw.githubusercontent.com/aidnii/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/aidnii/github-user-stats/master/generated/overview.svg)
 
-![](https://raw.githubusercontent.com/aidnii/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/aidnii/github-user-stats/master/generated/languages.svg)
 
 
 
