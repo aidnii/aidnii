@@ -2,7 +2,7 @@
        Blockchain Developer | Systems Engineer | Mechanical Engineer
 
 ### 📫 How to reach me?
-      💞️ Discord: @aidni#3009
+      💞️ Discord: @krypticlady#3009
       💞️ Twitter: @krypticlady
       
 ### My Experience
