@@ -7,8 +7,9 @@
       💞️ Telegram: @krypticlady
       
 ### My Experience
+      ✨ Blockchain Developer: Rust, Solidity, Hardhat, Truffle, ethers.js, web3.js, OpenZeppelin Libraries
+      ✨ Systems Engineer: SysML, V-model, IBM Rhapsody & DOORs
       ✨ Mechanical Engineer: Over 5+ years of experience in SolidWorks, Inventor, AutoCAD, Maestro
-      ✨ Blockchain Developer: Experience using Rust, Solidity, Hardhat, Truffle, ethers.js, web3.js, OpenZeppelin Libraries
      
 ### My Stats
 ![](https://raw.githubusercontent.com/aidnii/github-user-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/aidnii/github-user-stats/master/generated/languages.svg#gh-dark-mode-only)
